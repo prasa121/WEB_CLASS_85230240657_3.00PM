@@ -1,8 +1,8 @@
 <?php
 
-$color = 1;
+$color = "RED";
 
-echo "My Car : ".$color; // OUTOUT OK
+echo "My Car : ".$color; // OUTPUT OK
 echo "<br>";
 echo "My Car : ".$COLOR; //ERROR
 echo "<br>";
